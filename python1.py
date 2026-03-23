@@ -1,0 +1,12 @@
+name="poojitha";
+regno=192319006;
+phonenumber=9538282728;
+branch="BME";
+age=20;
+address="chennai";
+print(name);
+print(age);
+print(address);
+print(regno);
+print(phonenumber);
+print(branch);

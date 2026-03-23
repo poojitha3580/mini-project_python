@@ -1,0 +1,3 @@
+text="When I entered Khan market, it was buzzing with commotion. I drove around the exterior, hoping to find an easy parking spot. But as luck would have it, the lot was completely full. The only empty spot I found was between two angled SUVs. I knew parking here required a certain amount of expertise, and even then, it’d be a tight squeeze. And yet, I decided to go for it. What option did I have? The store was going to close in fifteen minutes. I’d come all the way; it’d be silly to go back empty-handed"
+result=text.replace(" ","")
+print("without spaces:",result)

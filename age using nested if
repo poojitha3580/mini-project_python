@@ -1,0 +1,5 @@
+age=int(input("enter age"))
+citizen=input("are you a citizen (yes/no)?")
+if age >=18:
+    if citizen=="yes":
+        print("eligible to vote")
